@@ -13,20 +13,20 @@
 <h2 align="center">👉 A Collection of Solutions to HackerRank Problems 👈</h2>
 </p>
 
-<br>- My ***C++*** solutions.
-<br>- I will be adding the solutions eventually as I go on.
-<br>- My solutions may **not always be optimal**.
+- My ***C++*** solutions.
+- I will be adding the solutions eventually as I go on.
+- My solutions may **not always be optimal**.
 
 ## `📋 Table of Contents 📋`
-| Title |
-|---|
-| [Problem Solving](https://www.hackerrank.com/domains/data-structures?badge_type=problem-solving)|
-| [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)|
+| Title | Solution|
+|---| ------------|
+| [Problem Solving](https://www.hackerrank.com/domains/data-structures?badge_type=problem-solving)| [C++](./Problem%20Solving)|
+| [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)| [C++](./Interview%20Prep%20Kit)|
 
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
 ## Note
-<br>- Some things added in the README.md file may be borrowed from some other repositories. 
-<br>- `Credit to the rightful owner.`
-<br>- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
-<br>- I have'nt added all my solution files. I will add them as soon as possible.
+- Some things added in the README.md file may be borrowed from some other repositories. 
+- `Credit to the rightful owner.`
+- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
+- I have'nt added all my solution files. I will add them as soon as possible.
